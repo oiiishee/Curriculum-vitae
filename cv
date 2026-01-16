@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My CV</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f4f4f4;
+        }
+        .cv {
+            width: 800px;
+            background: #fff;
+            margin: 30px auto;
+            padding: 30px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.2);
+        }
+        h1 {
+            color: #2c3e50;
+        }
+        h2 {
+            background: #2c3e50;
+            color: white;
+            padding: 5px;
+        }
+        p, li {
+            font-size: 16px;
+        }
+        ul {
+            margin-left: 20px;
+        }
+        .info {
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+
+<div class="cv">
+    <h1>Name: Ayshwarya Chowdhury Oishee/h1>
+    <p class="info">
+        📧 Email: oisheeoishorjoo@gmail.com<br>
+        📞 Phone: 01873215634<br>
+        🏠 Address:Chattogram,Bangladesh
+    </p>
+
+    <h2>Career Objective</h2>
+    <p>
+        To build a successful career by applying my knowledge and skills in a professional environment.
+    </p>
+
+    <h2>Educational Qualification</h2>
+     <p>
+        <b>HSC (Science)</b> <br>
+        Institution: Government City College<br>
+        Board: Chattogram<br>
+        Year: 2023 <br><br>
+
+        <b>SSC (Science)</b> <br>
+        Institution: Aparnacharan City Corporation Girls School & College<br>
+        Board: Chattogram <br>
+        Year: 2021
+    </p>
+
+    
+    <h2>Skills</h2>
+    <p>
+        Dance<br>
+        Guiter<br>
+        C Programming
+    </p>
+
+    
+    <h2>Personal Information</h2>
+    <p>
+        Father’s Name: Raghunath Chowdhury<br>
+        Mother’s Name: Rumusree Chowdhury<br>
+        Date of Birth: 10/08/2005<br>
+        Nationality: Bangladeshi
+    </p>
+
+    <h2>Declaration</h2>
+    <p>
+        I hereby declare that the above information is true and correct.
+    </p>
+
+    <p><b>Signature:</b> ____________</p>
+</div>
+
+</body>
+</html>
